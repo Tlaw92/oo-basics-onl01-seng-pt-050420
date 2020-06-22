@@ -6,6 +6,9 @@ class Shoe
     @brand = brand
   end   
   
+  def condition
+    puts "tattered"
+  end 
   
 end   
 
